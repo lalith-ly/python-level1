@@ -1,4 +1,4 @@
-print("Pushparaj Internation [p]ltd")
+print("lalith Internation [p]ltd")
 print("No.15,Nagapara Dist,Bangolore")
 print("------------------------------")
 print("Employee Payroll System")
@@ -15,3 +15,4 @@ TravelAllvance=Salary*5/100
 print("Travelallvance(5 percentage):",TravelAllvance)
 Grass=Salary+Bonas+Overtime+TravelAllvance
 print("Grass paid in Rupees:",Grass)
+
