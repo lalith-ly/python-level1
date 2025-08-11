@@ -1,4 +1,4 @@
-print("Bharathi Supermarket")
+print("Lalith Supermarket")
 print("No.44,Nehru street,puducherry")
 print("-----------------------------")
 print("Bill receipt")
@@ -14,3 +14,4 @@ print("GST(10 per):",GST)
 paid=total+GST
 print("amount to be paid Rs:",total)
          
+
